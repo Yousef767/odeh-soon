@@ -383,6 +383,16 @@ nav.color {
           user-select: none;
 }
 
+@media (max-width: 500px) {
+  .hd h2 {
+    font-size: 3em;
+  }
+}
+@media (max-width: 410px) {
+  .hd h2 {
+    font-size: 2.5em;
+  }
+}
 .hd2 {
   top: -100px;
 }
